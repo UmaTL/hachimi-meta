@@ -12,7 +12,7 @@
     {
         "name": "English (Hachimi Beta)",
         "index": "https://raw.githubusercontent.com/Rekoiru/meta/refs/heads/main/index.json",
-        "short_desc": "The original Hachimi translation, with the latest sprite work. Frequent UI updates with more usage of community terms. May lag behind on Uma Stories. Source: Rekoiru, Old UmaTL (tinyurl.com/UmaTLCredits), GameTora. Contributors: KevinVG207, fling"
+        "short_desc": "The original Hachimi translation, with the latest sprite work. Frequent UI updates with more usage of community terms. May lag behind on stories and events. Source: Rekoiru, Old UmaTL (tinyurl.com/UmaTLCredits), GameTora. Contributors: KevinVG207, fling"
     },
     {
         "name": "Skill Data Only (UmaTL)",
