@@ -1,0 +1,32 @@
+name: Mirror main to GitLab
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check setup
+        run: |
+          if [ -z "${{ secrets.GITLAB_TOKEN }}" ]; then
+            echo "Missing required secret: GITLAB_TOKEN"
+            exit 1
+          fi
+          if [ -z "${{ vars.GITLAB_REPO_URL }}" ]; then
+            echo "Missing required variable: GITLAB_REPO_URL"
+            exit 1
+          fi
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Mirror
+        run: |
+          HOST=${{ vars.GITLAB_REPO_URL }}
+          git remote add gitlab https://token:${{ secrets.GITLAB_TOKEN }}@${HOST#https://}
+          git push gitlab main:main --force
