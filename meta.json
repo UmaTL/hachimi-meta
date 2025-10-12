@@ -35,8 +35,8 @@
         "short_desc": "来源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, … "
     },
     {
-        "name": "Bahasa Indonesia",
-        "index": "https://raw.githubusercontent.com/FahriAdison/hachimi-id/release/index.json",
-        "short_desc": "Terjemahan Inggris -> Indonesia. Asal: UmaTL. Kontributor: FahriAdison (+ Pemelihara), R4nc3, … "
+        "name": "Bahasa Indonesia + Lokal (UmaChimiID)",
+        "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
+        "short_desc": "UmachimiID Beta, Always Update. Kontributor: Xmatography, FahriAdison (UI, maintener), R4nc3, Vin, MisuMasu (lyrics), Arsh, …"
     }
 ]
