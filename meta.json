@@ -41,7 +41,7 @@
     },
     {
         "name": "Français (Patch FR)",
-        "index": "https://raw.githubusercontent.com/[votre-compte]/[dépôt]/release/index.json",
+        "index": "https://raw.githubusercontent.com/umamusumeFR/hachimi-tl-fr/release/index.json",
         "short_desc": "Patch de traduction française pour Umamusume. Toujours à jour.  contributors: Yellow, Iz_Shiroi, DeChalon",
         "region": "Global"
     }
