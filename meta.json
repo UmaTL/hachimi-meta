@@ -38,5 +38,10 @@
         "name": "Bahasa Indonesia + Lokal (UmaChimiID)",
         "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
         "short_desc": "UmachimiID Beta, Always Update. Kontributor: Xmatography, FahriAdison (UI, maintener), R4nc3, Vin, MisuMasu (lyrics), Arsh, …"
+    },
+    {
+        "name": "Français (Patch FR)",
+        "index": "https://raw.githubusercontent.com/[votre-compte]/[dépôt]/release/index.json",
+        "short_desc": "Patch de traduction française pour Umamusume. Toujours à jour.  contributors: Yellow, Iz_Shiroi, DeChalon"
     }
 ]
