@@ -32,13 +32,13 @@
     {
         "name": "简体中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json",
-        "short_desc": "官方源，部分内容继承自 Trainers' Legend G 译文仓库(tinyurl.com/TLGCredits)。 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, Virlurable, hyperlotus, … ",
+        "short_desc": "官方源，部分译文内容继承自 Trainers' Legend G 译文仓库(tinyurl.com/TLGCredits)。 贡献者：yingyingyingqwq (+维护者), 1oschi, lanshan114514, hyperlotus, Virlurable, yushenzc, … ",
         "language": "zh-cn"
     },
     {
         "name": "简体中文（大陆加速镜像）",
         "index": "https://fuwadl.yingqwq.cn/zh-cn/index/index.json",
-        "short_desc": "官方源，仅对部分地区有加速效果。部分内容继承自 Trainers' Legend G 译文仓库(tinyurl.com/TLGCredits)。 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, Virlurable, hyperlotus, … ",
+        "short_desc": "官方源，仅对部分地区有加速效果。部分译文内容继承自 Trainers' Legend G 译文仓库(tinyurl.com/TLGCredits)。 贡献者：yingyingyingqwq (+维护者), 1oschi, lanshan114514, hyperlotus, Virlurable, yushenzc, … ",
         "language": "zh-cn"
     },
     {
