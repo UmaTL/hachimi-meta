@@ -42,9 +42,9 @@
         "language": "zh-cn"
     },
     {
-        "name": "Bahasa Indonesia + Lokal (UmaChimiID)",
+        "name": "Bahasa Indonesia",
         "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
-        "short_desc": "UmachimiID Beta, Always Update. Kontributor: Xmatography, FahriAdison (UI, maintener), R4nc3, Vin, MisuMasu (lyrics), Arsh, …",
+        "short_desc": "Translasi oleh Umachimi-ID. Kontributor: Xmatography, FahriAdison, MisuMatsu, gagakitem, Ikazuu, FreyDerika, dkk., lihat progres TL di (tinyurl.com/status-tlid)",
         "language": "id"
     },
     {
