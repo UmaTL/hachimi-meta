@@ -52,5 +52,23 @@
         "index": "https://raw.githubusercontent.com/umamusumeFR/hachimi-tl-fr/release/index.json",
         "short_desc": "Patch de traduction française pour Umamusume. Toujours à jour.  contributors: Yellow, Iz_Shiroi, DeChalon",
         "region": "Global"
+    },
+    {
+        "name": "English (UmaTL, Mirror)",
+        "index": "https://files.leadrdrk.com/hachimi/umatl.json",
+        "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
+        "language": "en"
+    },
+    {
+        "name": "English with Skill Data (UmaTL SD-EN, Mirror)",
+        "index": "https://files.leadrdrk.com/hachimi/umatl-sd.json",
+        "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
+        "language": "en"
+    },
+    {
+        "name": "Skill Data Only (UmaTL SD, Mirror)",
+        "index": "https://files.leadrdrk.com/hachimi/umatl-sd-only.json",
+        "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
+        "language": "en"
     }
 ]
