@@ -78,10 +78,10 @@
         "language": "en"
     },
     {
-        "name": "Wikang Filipino",
-	"index": "https://codeberg.org/kita/hachimi-fil-glb/raw/branch/main/index.json",
-	"short_desc": "Pagsasaling Filipino para sa UMPD. By Vyxie",
-	"language": "fil",
-	"region": "Global"
+        "name": "Filipino",
+        "index": "https://codeberg.org/kita/hachimi-fil-glb/raw/branch/main/index.json",
+        "short_desc": "Pagsasaling Filipino para sa UM:PD / Filipino Translations for UM:PD",
+        "language": "fil",
+        "region": "Global"
     }
 ]
