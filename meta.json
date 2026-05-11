@@ -60,6 +60,13 @@
         "region": "Global"
     },
     {
+        "name": "Filipino",
+        "index": "https://codeberg.org/kita/hachimi-fil-glb/raw/branch/main/index.json",
+        "short_desc": "Pagsasaling Filipino para sa UM:PD / Filipino Translations for UM:PD",
+        "language": "fil",
+        "region": "Global"
+    },
+    {
         "name": "English (UmaTL, Mirror)",
         "index": "https://files.leadrdrk.com/hachimi/umatl.json",
         "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
@@ -76,12 +83,5 @@
         "index": "https://files.leadrdrk.com/hachimi/umatl-sd-only.json",
         "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
         "language": "en"
-    },
-    {
-        "name": "Filipino",
-        "index": "https://codeberg.org/kita/hachimi-fil-glb/raw/branch/main/index.json",
-        "short_desc": "Pagsasaling Filipino para sa UM:PD / Filipino Translations for UM:PD",
-        "language": "fil",
-        "region": "Global"
     }
 ]
