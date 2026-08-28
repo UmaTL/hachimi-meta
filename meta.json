@@ -18,6 +18,12 @@
         "language": "en"
     },
     {
+        "name": "Korean",
+        "index": "https://raw.githubusercontent.com/Haiseiko/hachimi-tl-ko/release/index.json",
+        "short_desc": "Translates all parts,all translation is from official or dcinside umamiseme minor gallery.but some thing is still english because fork template from umatl",
+        "language": "ko"
+    },
+    {
         "name": "繁體中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-tw.json",
         "short_desc": "來源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 貢獻者：yotv2000tw (+維護者), seanpai96, asps76482, _akito@ytb, project90418512@twt, …",
